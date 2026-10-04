@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/akirapvp-banner.png" alt="AkiraPvP — Minecraft PvP / HCF" width="100%">
-
 # ⚔️ AKIRAPVP
 
 ### DOMINAMOS EL CAMPO DE BATALLA.
