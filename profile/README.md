@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/akirapvp-banner.png" alt="AkiraPvP — Minecraft PvP / HCF" width="100%">
-<img src="assets/akirapvp-banner.png">
 # ⚔️ AKIRAPVP
 
 ### DOMINAMOS EL CAMPO DE BATALLA.
@@ -39,8 +37,8 @@ Este repositorio centraliza nuestras herramientas, sistemas y desarrollos open-s
 | :--- | :--- |
 | **IP Principal** | `akirapvp.lat` |
 | **Modalidad** | PvP / HCF / Factions |
-| **Discord** | [discord.gg/AkiraPvP](https://discord.gg/AkiraPvP) *(Próximamente)* |
-| **YouTube** | [@AkiraPvP](https://youtube.com/@AkiraPvP) *(Próximamente)* |
+| **Discord** | [discord.gg/AkiraPvP](https://discord.gg/AkiraPvP)  |
+| **YouTube** | [@AkiraPvP](https://youtube.com/@AkiraPvP)  |
 
 > Copia la dirección `akirapvp.lat` directamente en el multijugador de Minecraft para unirte a la batalla.
 
@@ -52,10 +50,10 @@ En esta organización publicamos y mantenemos herramientas para el ecosistema de
 
 | Repositorio | Descripción |
 | : করুণ | :--- |
-| ⚙️ **[Plugins](https://github.com/AkiraPvP)** | Sistemas y mecánicas personalizadas para Spigot/Paper. |
-| 🛡️ **[HCF Core](https://github.com/AkiraPvP)** | Núcleo de desarrollo principal para las modalidades HCF. |
-| 🔧 **[Herramientas](https://github.com/AkiraPvP)** | Utilidades de administración y scripts de gestión. |
-| 📦 **[Recursos](https://github.com/AkiraPvP)** | Configuraciones de mapas, menús y assets del servidor. |
+| ⚙️ **[Plugins]** *(Próximamente)* y mecánicas personalizadas para Spigot/Paper. |
+| 🛡️ **[HCF Core]** *(Próximamente)* | Núcleo de desarrollo principal para las modalidades HCF. |
+| 🔧 **[Herramientas]** *(Próximamente)*** | Utilidades de administración y scripts de gestión. |
+| 📦 **[Recursos]** *(Próximamente)* | Configuraciones de mapas, menús y assets del servidor. |
 
 ---
 
