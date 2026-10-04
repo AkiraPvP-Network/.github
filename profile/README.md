@@ -49,14 +49,10 @@ Este repositorio centraliza nuestras herramientas, sistemas y desarrollos open-s
 En esta organización publicamos y mantenemos herramientas para el ecosistema del servidor:
 
 | Repositorio | Descripción |
-|
-| ⚙️ **[Plugins]** *(Próximamente)* y mecánicas personalizadas para Spigot/Paper. |
-|
-| 🛡️ **[HCF Core]** *(Próximamente)* | Núcleo de desarrollo principal para las modalidades HCF. |
-|
-| 🔧 **[Herramientas]** *(Próximamente)*** | Utilidades de administración y scripts de gestión. |
-|
-| 📦 **[Recursos]** *(Próximamente)* | Configuraciones de mapas, menús y assets del servidor. |
+⚙️ **[Plugins]** *(Próximamente)* y mecánicas personalizadas para Spigot/Paper. |
+🛡️ **[HCF Core]** *(Próximamente)* | Núcleo de desarrollo principal para las modalidades HCF. |
+🔧 **[Herramientas]** *(Próximamente)*** | Utilidades de administración y scripts de gestión. |
+📦 **[Recursos]** *(Próximamente)* | Configuraciones de mapas, menús y assets del servidor. |
 
 ---
 
