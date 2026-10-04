@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AkiraPvP/.github/main/assets/akirapvp-banner.png" alt="AkiraPvP — Minecraft PvP / HCF" width="100%">
+<img src="profile/assets/akirapvp-banner.png" alt="AkiraPvP — Minecraft PvP / HCF" width="100%">
 
 # ⚔️ AKIRAPVP
 
